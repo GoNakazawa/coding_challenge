@@ -1,0 +1,2 @@
+# coding_challenge
+これはDS_Hubのcoding_challenge用に作成したレポジトリです。
